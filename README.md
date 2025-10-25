@@ -1,12 +1,12 @@
-🎯 Wireframing
-🧩 What is Wireframing?
+###🎯 Wireframing
+##🧩 What is Wireframing?
 
 Wireframing is the process of creating a visual blueprint or skeletal outline of a website or application before the actual design and development begin.
 It shows how elements will be arranged on each page and how users will interact with them.
 
 Wireframes focus on structure and functionality, not colors or detailed graphics. Think of them as the “floor plan” of your digital product — defining where everything goes before decorating the house!
 
-💡 Importance of Wireframing in the Design Process
+##💡 Importance of Wireframing in the Design Process
 
 Wireframing plays a crucial role in user experience (UX) design and software development because it:
 
